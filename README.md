@@ -26,7 +26,7 @@ This repository implements a two-part system for detecting 13 lung conditions fr
    - **Architecture:** Cross-modal TransformerEncoder → classification head  
    - **Loss:** Masked Asymmetric Loss (ignores missing labels)  
 
-Full methods, experiments, and discussion are detailed in our [final report](SPH6004%20Report.docx) SPH6004 Report.docx](file-service://file-SsJACspvNNczpCd2nfTqBu).
+Full methods, experiments, and discussion are detailed in our [final report](SPH6004%20Report.docx).
 
 ---
 
